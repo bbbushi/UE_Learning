@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vs/
+
+# Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+
+# Visual Studio
+*.sln.DotSettings.user
+*.user
+
+# 其他临时文件
+*.log
+*.png
