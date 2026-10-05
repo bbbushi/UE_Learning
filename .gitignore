@@ -10,8 +10,14 @@ DerivedDataCache/
 Build/
 
 # Visual Studio
+*.sln
+*.slnx
 *.sln.DotSettings.user
 *.user
+.vsconfig
+
+# Claude Code
+.claude/
 
 # 其他临时文件
 *.log
